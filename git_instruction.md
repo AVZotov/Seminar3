@@ -1,13 +1,15 @@
-## Git instruction
+# Git instruction
 
-#Introduction
+## Introduction
 
-#Starting work with Git
+# Chapter I - base functionality
 
-#Adding files to version control
+## Starting work with Git
 
-#Commits review
+## Adding files to version control
 
-#Commits comparison
+## Commits review
 
-#Navigation through commits
+## Commits comparison
+
+## Navigation through commits
