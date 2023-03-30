@@ -1,6 +1,6 @@
 # Git instruction
 
-<img src="git.png" alt="git logo" width="70" height="50">
+<img src="Images/git.png" alt="git logo" width="70" height="50">
 
 ## Introduction
 
@@ -77,7 +77,7 @@ _(this command will show all commits up and down from the current position)_
 
 ## Navigation through commits
 
-# Chapter II - Branching <img src="tree.jpg" alt="tree logo" width="50" height="30">
+# Chapter II - Branching <img src="Images/tree.jpg" alt="tree logo" width="50" height="30">
 
 ## Introduction
 
