@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is a free and open source distributed version control system.
 
 # Chapter I - base functionality
 
@@ -76,3 +76,13 @@ _(this command will show all commits up and down from the current position)_
 ## Commits comparison
 
 ## Navigation through commits
+
+# Chapter II - Branching <img src="tree.jpg" alt="tree logo" width="50" height="30">
+
+## Introduction
+
+## Base functionality
+
+## Navigate through branches
+
+## Conflicts
