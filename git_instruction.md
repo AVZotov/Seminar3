@@ -77,6 +77,8 @@ _(this command will show all commits up and down from the current position)_
 
 ## Navigation through commits
 
+***
+
 # Chapter II - Branching <img src="Images/tree.jpg" alt="tree logo" width="50" height="30">
 
 ## Introduction
