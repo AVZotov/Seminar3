@@ -16,6 +16,7 @@ This section describes the basic functionality
 
         git status
 it is a common practise to use "git status" command as soon as any changes take a place in project to check if commit is needed
+
 ## Adding files to version control
 
 * To add file for commit use command:
