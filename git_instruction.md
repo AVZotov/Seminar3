@@ -86,6 +86,28 @@ _(this command will show all commits up and down from the current position)_
 ## Introduction
 
 ## Base functionality
+<p>* to create new branch use command:
+
+                git branch <branchname>
+</p>
+
+<p>*to show all barches created use command:
+
+                git branch
+</p>
+
+<p>*to delete branch use command:
+
+                git branch -d <branchname>
+
+_this command allow to delete only merged branches_
+</p>
+
+<p>
+*to delete unmerged branches (over words unsaved) use command:
+
+                git branch -D <branchname>
+</p>
 
 ## Navigate through branches
 
