@@ -14,25 +14,25 @@ This section describes the basic functionality
 
 * to review commits tree with detailed information use command:
 
-(this command will show all commits down from the current position)
+_(this command will show all commits down from the current position)_
 
                 git log
 
 * to review short log of commits use command:
 
-(this command will show all commits down from the current position)
+_(this command will show all commits down from the current position)_
 
                 git log --oneline
 
 * to review commits tree with detailed information use command:
 
-(this command will show all commits up and down from the current position)
+_(this command will show all commits up and down from the current position)_
 
                 git log --all
 
 * to review short log of commits use command:
 
-(this command will show all commits up and down from the current position)
+_(this command will show all commits up and down from the current position)_
 
                 git log --oneline --all
 
