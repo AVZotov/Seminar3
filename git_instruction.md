@@ -79,7 +79,9 @@ _(this command will show all commits up and down from the current position)_
 
 ***
 
-# Chapter II - Branching <img src="Images/tree.jpg" alt="tree logo" width="50" height="30">
+<center><img src="Images/tree.jpg" alt="tree logo" width="50" height="30"></center>
+
+<center><h1> Chapter II - Branching</h1></center>
 
 ## Introduction
 
@@ -87,4 +89,4 @@ _(this command will show all commits up and down from the current position)_
 
 ## Navigate through branches
 
-## Conflicts
+## Branch Merging & Conflicts
