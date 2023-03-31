@@ -15,3 +15,12 @@ This section describes the basic functionality
 ## Commits comparison
 
 ## Navigation through commits
+
+* to swich commit for work use command:
+
+        git checkout <hash>
+
+* to return to the master commit instead of hash use command:
+
+        git checkout master
+
