@@ -84,3 +84,11 @@ _(this command will show all commits up and down from the current position)_
         git diff <hash1> <hash2>
 
 ## Navigation through commits
+
+* to swich commit for work use command:
+
+        git checkout <hash>
+
+* to return to the master commit instead of hash use command:
+
+        git checkout master
