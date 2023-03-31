@@ -1,6 +1,6 @@
 # Git instruction
 
-<img src="Images/git.png" alt="git logo" width="70" height="50">
+<center><img src="Images/git.png" alt="git logo" width="70" height="50"></center>
 
 ## Introduction
 
