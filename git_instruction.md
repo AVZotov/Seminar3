@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Git is a free and open source distributed version control system.
+_**Git**_ is a free and open source distributed version control system.
 
 # Chapter I - base functionality
 
