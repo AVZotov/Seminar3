@@ -75,15 +75,33 @@ _(this command will show all commits up and down from the current position)_
 
 ## Commits comparison
 
+* to comapre existing changes with last commit use command:
+        
+        git diff
+
+* to compare existing last changes with exact commit use command:
+
+        git diff <hash>
+
+* to compare to commits use command:
+
+        git diff <hash1> <hash2>
+
 ## Navigation through commits
+
+* to swich commit for work use command:
+
+        git checkout <hash>
+
+* to return to the master commit instead of hash use command:
+
+        git checkout master
 
 ***
 
 <center><img src="Images/tree.jpg" alt="tree logo" width="50" height="30"></center>
 
 <center><h1> Chapter II - Branching</h1></center>
-
-## Introduction
 
 ## Base functionality
 <p>* to create new branch use command:
