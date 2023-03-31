@@ -87,4 +87,20 @@ _(this command will show all commits up and down from the current position)_
 
 ## Navigate through branches
 
-## Conflicts
+<p>* to change active branch use commad:
+
+                git checkout <branchname>
+</p>
+
+## Branches merging and conflicts
+
+<p> *to merge working branch into the parent branch you should checkout to parent branch and use command:
+
+                git merge <branchname>
+_there branchname is a name of incoming branch_
+<p>
+
+* Merging conflicts is an event appear if both merging branches has different information in same blocks/lines of code (text) & etc.
+
+* to solve merge conflicts during merging process choose correct information source. It could be information from incoming branch or you prefer to keep information from current branch or both.
+</p>
