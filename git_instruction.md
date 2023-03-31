@@ -71,4 +71,16 @@ _(this command will show all commits up and down from the current position)_
 
 ## Commits comparison
 
+* to comapre existing changes with last commit use command:
+        
+        git diff
+
+* to compare existing last changes with exact commit use command:
+
+        git diff <hash>
+
+* to compare to commits use command:
+
+        git diff <hash1> <hash2>
+
 ## Navigation through commits
