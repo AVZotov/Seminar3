@@ -104,39 +104,38 @@ _(this command will show all commits up and down from the current position)_
 <center><h1> Chapter II - Branching</h1></center>
 
 ## Base functionality
-<p>* to create new branch use command:
+<p>to create new branch use command:
 
                 git branch <branchname>
 </p>
 
-<p>*to show all barches created use command:
+<p>to show all barches created use command:
 
                 git branch
 </p>
 
-<p>*to delete branch use command:
+<p>to delete branch use command:
 
                 git branch -d <branchname>
 
 _this command allow to delete only merged branches_
 </p>
 
-<p>
-*to delete unmerged branches (over words unsaved) use command:
+<p>to delete unmerged branches (over words unsaved) use command:
 
                 git branch -D <branchname>
 </p>
 
 ## Navigate through branches
 
-<p>* to change active branch use commad:
+<p>to change active branch use commad:
 
                 git checkout <branchname>
 </p>
 
 ## Branches merging and conflicts
 
-<p> *to merge working branch into the parent branch you should checkout to parent branch and use command:
+<p> to merge working branch into the parent branch you should checkout to parent branch and use command:
 
                 git merge <branchname>
 _there branchname is a name of incoming branch_
@@ -145,4 +144,13 @@ _there branchname is a name of incoming branch_
 * Merging conflicts is an event appear if both merging branches has different information in same blocks/lines of code (text) & etc.
 
 * to solve merge conflicts during merging process choose correct information source. It could be information from incoming branch or you prefer to keep information from current branch or both.
+</p>
+
+***
+
+<center><h1> Remote repositories</h1><center>
+
+<p>
+
+
 </p>
