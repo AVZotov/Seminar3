@@ -148,7 +148,7 @@ _there branchname is a name of incoming branch_
 
 ***
 
-<center><h1> Remote repositories</h1><center>
+<center><h1> Chapter III - Remote repositories</h1><center>
 
 <p>
 
